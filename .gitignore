@@ -1,0 +1,11 @@
+backup/
+lib/
+tmp/
+Countdown
+Countdown.exe
+Countdown.dbg
+Countdown.res
+*.log
+*.7z
+*.lps
+*.ini
